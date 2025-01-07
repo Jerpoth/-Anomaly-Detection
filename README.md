@@ -5,10 +5,15 @@ Using python and any algorithm of your choice, highlight time periods where this
 
 # Key Parameters Monitored
 Cyclone Inlet Gas Temperature: Measures the temperature of gases entering the cyclone.
+
 Cyclone Material Temperature: Monitors the temperature of materials within the cyclone.
+
 Cyclone Outlet Gas Draft: Evaluates the draft pressure of gases exiting the cyclone.
+
 Cyclone Cone Draft: Assesses draft pressure within the cone section of the cyclone.
+
 Cyclone Gas Outlet Temperature: Records the temperature of gases leaving the cyclone.
+
 Cyclone Inlet Draft: Measures draft pressure at the inlet of the cyclone.
 
 # Conclusion
